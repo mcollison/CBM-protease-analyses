@@ -1,0 +1,3 @@
+# exclude everything in the target and taxonomy-files
+/taxonomy-files/*
+/target/*
